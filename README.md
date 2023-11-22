@@ -1,2 +1,3 @@
-# django
-Deploying a Django Application with Docker, Nginx, and Certbot 
+## Django Docker Deployment with HTTPS using Letsencrypt
+
+How to deploy Django using Docker and enable HTTPS with Letsencrypt.
